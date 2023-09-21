@@ -11,6 +11,5 @@ Codes implemented in thesis project.
 #GPT2 prompt generation
 code ref: https://huggingface.co/docs/transformers/model_doc/gpt2
 
-'Word2Vec.ipynb' similar word generation/ extraction to find the similar word to a given description. 
-# Genism word2vec
+'Word2Vec.ipynb' similar word generation/ extraction to find the similar word to a given description. # Genism word2vec
 code ref https://www.askpython.com/python-modules/gensim-word2vec
