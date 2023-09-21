@@ -1,4 +1,4 @@
-# Theis-code
+# Thesis-code
 Codes implemented in thesis project. 
 
 'Midjourney_images' file contains and examples of images generated using midjourney, it contains different style of images for each trait.
